@@ -36626,7 +36626,7 @@ j=j.ax
 j===$&&A.a()
 i=t.N
 s=8
-return A.f(j.n2("verify-phone",A.a_(["id_token",g],i,i)),$async$Zw)
+return A.f(j.n2("smooth-action",A.a_(["id_token",g],i,i)),$async$Zw)
 case 8:n=c
 m=n.a
 j=t.f
